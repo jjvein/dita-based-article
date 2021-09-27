@@ -1,15 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_tyj_3xm_brb">
-    <title></title>
+    <title>如何学习</title>
     <shortdesc></shortdesc>
     <taskbody>
         <context>
-            <p></p>
+            <p>5W1H how to study with dita</p>
         </context>
         <steps>
             <step>
-                <cmd></cmd>
+                <cmd>why</cmd>
+            </step>
+            <step>
+                <cmd>what</cmd>
+            </step>
+            <step>
+                <cmd>who</cmd>
+            </step>
+            <step>
+                <cmd>where</cmd>
+            </step>
+            <step>
+                <cmd>when</cmd>
+            </step>
+            <step>
+                <cmd>how</cmd>
             </step>
         </steps>
     </taskbody>
