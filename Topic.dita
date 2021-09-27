@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="topic_cps_pzm_brb">
-    <title></title>
+    <title>topic</title>
     <body>
-        <p></p>
+        <p>段落1</p>
+        <p>段落2</p>
+        <p>段落3</p>
     </body>
 </topic>
