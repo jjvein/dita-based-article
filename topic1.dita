@@ -3,7 +3,7 @@
 <topic id="topic_udt_qzm_brb">
     <title>sss</title>
     <body>
-        <p></p>
+        <p><reference conref="Reference.dita"/></p>
     </body>
     <topic id="id_vmx_hfn_brb" conref="Topic.dita">
         <title/>
